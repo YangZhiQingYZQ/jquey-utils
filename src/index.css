@@ -1,0 +1,9 @@
+.active{
+	color:red;
+}
+.content{
+	display: none;
+}
+.content:nth-child(1){
+	display: block;
+}
